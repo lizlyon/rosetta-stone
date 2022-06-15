@@ -13,7 +13,7 @@
 * analytical plan -> Analytical Plan 
 
 ## Source Code 
-* within the data folder 
+* within the code folder 
 
 ## Data 
-* within the code folder 
+* within the data folder 
